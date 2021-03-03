@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">sistemPertahananTubuh</string>
+    <string name="content_pustaka">
+    <b>Sumber buku</b> \nOmegawati, W., dkk. 2020. <i>Biologi untuk SMA/MA peminatan matematika</i> \n<i>dan ilmu-ilmu alam.</i> Yogyakarta.
+                     PT Penerbit Intan Pariwara.
+    \nIrnaningtyas. &amp; Istiadi, Y. 2016. <i>BIOLOGI untuk SMA/MA
+                     edisi revisi.</i> Jakarta. PT ERLANGGA.
+    \n<b>Sumber Internet</b>
+    \n<i>https://www.dictio.id/t/apa-saja-tanda-tanda-inflamasi/6353.</i>
+    
+</string>
+    <string name="content_video">
+        <b>•  Sistem Kekebalan Tubuh:</b> https://www.youtube.com/watch?v=48H59dwQO8Y
+        \n <b>•	Sistem kekebalan tubuh:kekebalan bawaan dan adaptif: </b> https://www.youtube.com/watch?v=PzunOgYHeyg
+        \n <b>•	Biologi Kelas 11: Sistem Pertahanan Tubuh Spesifik dan Sistem Pertahanan Non-Spesifik: </b> https://www.youtube.com/watch?v=B-0Ryg_hvHk
+        \n <b>•	Apa itu sel darah putih: </b> https://www.youtube.com/watch?v=Q3yX49JRaks
+        \n <b>•	Apa itu Inflamasi?:</b>https://www.youtube.com/watch?v=alO_csFxHhQ
+        \n <b> • Fagositosis sel darah putih: </b>https://www.youtube.com/watch?v=C0FDq5gdGls
+         \n <b>• Hari kesehatan nasional: mengenal penyakit autoimun yang banyak tak disadari gejalanya: </b> https://www.youtube.com/watch?v=xqWeCXiLHnc
+         \n <b>• Bagaimana Virus Corona Menyerang Sistem Kekebalan Tubuh:  </b>https://www.youtube.com/watch?v=ftNCj06d7KE
+         \n <b>• Cara meningkatkan sistem imun tubuh #BelajardiRumah: </b>https://www.youtube.com/watch?v=IdWx4hC375Y
+    </string>
+
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.sistempertahanantubuh">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.SistemPertahananTubuh">
+        <activity android:name=".hal_18_video_belajar"></activity>
+        <activity android:name=".hal_17_pustaka" />
+        <activity android:name=".hal_16_glosarium" />
+        <activity android:name=".hal_15_gangguan_imun" />
+        <activity android:name=".hal_14_jenis_imun" />
+        <activity android:name=".hal_13_jenis_gangguan" />
+        <activity android:name=".hal_12_mekanisme_adaptif" />
+        <activity android:name=".hal_11_mekanisme_alami" />
+        <activity android:name=".hal_10_mekanisme_imun" />
+        <activity android:name=".hal_9_faktor_imun" />
+        <activity android:name=".hal_8_pengertian_imun" />
+        <activity android:name=".hal_6_tujuan_pembelajaran" />
+        <activity android:name=".hal_5_ki_kd" />
+        <activity android:name=".hal_4_petunjuk" />
+        <activity android:name=".hal_3_pengantar" />
+        <activity android:name=".halaman_1" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
